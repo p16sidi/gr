@@ -1,12 +1,12 @@
 ---
 author: p17bail		
-title: Parrot Drone
-image_url: /images/parrot.jpg
-caption: 'Την περίοδο του 2010 όπου όλα τα Drones δεν ήταν οικονομικά προσιτά από το ευρή κοινό, 
-το Parrot Drone έκανε γνωστά στον κόσμο τα Drones προσφέροντας ασύρματη σύνδεση με τα Smartphones.'
+title: BigBucket
+image_url: /images/bigbucket.png
+caption: 'Το BigBucket πρόκειται για μια ιστοσελίδα με λογισμικό ανοιχτού κώδικα, όπου οι χρήστες μπορούν να 
+          χρησιμοποιήσουν το περιεχόμενο της ιστοσελίδας ή ακόμα και να συμβάλλουν στην ανάπτυξη του'
 license_text: No atrribution required
 categories:
- - drones
+ - Sites
 tags:
- - wireless
+ - Open source
 ---
