@@ -1,10 +1,10 @@
 ---
 author: p17bail		
-title: BigBucket
+title: BitBucket
 image_url: /images/bigbucket.png
-caption: 'Το BigBucket πρόκειται για μια ιστοσελίδα με λογισμικό ανοιχτού κώδικα, όπου οι χρήστες μπορούν να 
+caption: 'Το BitBucket πρόκειται για μια ιστοσελίδα με λογισμικό ανοιχτού κώδικα, όπου οι χρήστες μπορούν να 
           χρησιμοποιήσουν το περιεχόμενο της ιστοσελίδας ή ακόμα και να συμβάλλουν στην ανάπτυξη του'
-license_text: No atrribution required
+license_url: https://blog.nazrulkabir.com/tag/bitbucket/
 categories:
  - Sites
 tags:
