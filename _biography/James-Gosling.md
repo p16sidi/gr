@@ -14,14 +14,11 @@ tags:
   - Object Oriented
   
 gallery:
-  - image_url: 
+  - image_url: /images/java.jpg
     caption: ""
-  - image_url: 
-    caption: " "
-  - image_url: 
-    caption: ""
+
 ---
 
 {% include bio-Gosling.md %}
 
-{% include slides.html caption="Κάποιες φωτογραφίες του James Gosling" %}
+{% include slides.html caption="Φωτογραφία του James Gosling" %}
