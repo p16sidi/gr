@@ -1,7 +1,7 @@
 ---
 author: p17bail
 title: "James-Gosling"
-image_url: /images/
+image_url: /images/James-Gosling.jpg
 caption: "O συχνά αναφερόμενος ως Dr. Java, James Gosling είναι ο δημιουργός της γλώσσας προγραμματισμού Java."
 categories:
   - biography
