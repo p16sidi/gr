@@ -22,6 +22,6 @@ gallery:
     caption: ""
 ---
 
-{% include .md %}
+{% include bio-Gasling.md %}
 
 {% include slides.html caption="Κάποιες φωτογραφίες του James Gosling" %}
