@@ -15,7 +15,7 @@ tags:
   
 gallery:
   - image_url: /images/java.jpg
-    caption: ""
+    caption: "James Gosling"
 
 ---
 
