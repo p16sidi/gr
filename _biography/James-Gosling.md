@@ -21,4 +21,3 @@ gallery:
 
 {% include bio-Gosling.md %}
 
-{% include slides.html caption="Φωτογραφία του James Gosling" %}
