@@ -8,7 +8,7 @@ tags:
   - Coding
 ---
 
-Διαδραστικό παράδειγμα
+Διαδραστικό παράδειγμα όπου ο χρήστης δημιουργεί σχήματα που περιστρέφονται γύρω από έναν άξονα.
 
 <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="ge1doot" data-slug-hash="QwQQJz" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="just an illusion">
   <span>See the Pen <a href="https://codepen.io/ge1doot/pen/QwQQJz">
