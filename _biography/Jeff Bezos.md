@@ -2,16 +2,16 @@
 author: p16sidi
 title: "Jeff Bezos"
 image_url: /images/bezos.png
-caption: "titlos"
+caption: "Ο Τζέφρυ Μπέζος, γνωστός ως Τζεφ Μπέζος, είναι Αμερικανός επιχειρηματίας της τεχνολογίας και του λιανικού εμπορίου, επενδυτής και επιστήμονας της πληροφορικής."
 categories:
   - biography
-  - computer
-  - programming language
+  - Amazon
+  - eshop
   
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - millionaire 
+  - amazon
+  - AWS
   
 
 ---
